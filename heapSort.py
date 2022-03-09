@@ -9,4 +9,9 @@ class HeapSort:
         return self.arr
 sl = HeapSort([1,2,3])
 
-print(sl.sort())
+
+def heapSort(arr):
+
+
+def heapify(arr):
+    
